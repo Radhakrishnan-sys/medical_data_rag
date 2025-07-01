@@ -6,3 +6,37 @@ Data/150_SET_cleaned.xlsx
 
 # Python
 __pycache__/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# --- Virtual Environments ---
+.venv/
+env/
+venv/
+
+# --- Poetry ---
+poetry.lock
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+
+# --- Environment Variables ---
+.env
+
+# --- VS Code Settings ---
+.vscode/
+
+# --- Windows system files ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --- Logs / Cache ---
+*.log
+*.tmp
+.cache/
