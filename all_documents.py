@@ -160,3 +160,4 @@ documents = combine_patient_documents(
 
 for idx, doc in enumerate(documents):
     print(f"Document {idx+1}: {doc}")
+

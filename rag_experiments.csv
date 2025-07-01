@@ -1,0 +1,2 @@
+timestamp,experiment_name,embedding_model,vectorstore,index_type,chunk_size,chunk_overlap,k,retrieval_strategy,rag_strategy,reranker,llm_model,chain_type,metrics,latency,notes
+2025-06-27T18:05:31.398973,gpt4o-chroma-minilm-512chunks,all-MiniLM-L6-v2,Chroma,flat,512,0,5,similarity,single-query,none,gpt-4o,stuff,"{'user_rating': 3, 'latency': 25.10469889640808}",25.10469889640808,worst reponse
